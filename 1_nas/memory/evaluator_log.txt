@@ -1,0 +1,23 @@
+--------------------blk_id0nn_id:0item_id:0--------------------
+[[1]][('conv', 64, 3, 'relu')]
+epoch 0/20: train_acc = 0.294, test_acc = 0.368, cost time 18.206
+epoch 1/20: train_acc = 0.329, test_acc = 0.409, cost time 16.934
+epoch 2/20: train_acc = 0.344, test_acc = 0.428, cost time 16.999
+epoch 3/20: train_acc = 0.352, test_acc = 0.433, cost time 16.945
+epoch 4/20: train_acc = 0.371, test_acc = 0.413, cost time 16.894
+epoch 5/20: train_acc = 0.378, test_acc = 0.451, cost time 16.947
+epoch 6/20: train_acc = 0.383, test_acc = 0.459, cost time 16.981
+epoch 7/20: train_acc = 0.393, test_acc = 0.457, cost time 16.977
+epoch 8/20: train_acc = 0.397, test_acc = 0.466, cost time 17.055
+epoch 9/20: train_acc = 0.405, test_acc = 0.483, cost time 17.072
+epoch 10/20: train_acc = 0.411, test_acc = 0.480, cost time 17.149
+epoch 11/20: train_acc = 0.418, test_acc = 0.482, cost time 17.171
+epoch 12/20: train_acc = 0.427, test_acc = 0.494, cost time 17.007
+epoch 13/20: train_acc = 0.432, test_acc = 0.497, cost time 17.153
+epoch 14/20: train_acc = 0.440, test_acc = 0.496, cost time 17.144
+epoch 15/20: train_acc = 0.454, test_acc = 0.510, cost time 17.229
+epoch 16/20: train_acc = 0.455, test_acc = 0.519, cost time 17.037
+epoch 17/20: train_acc = 0.464, test_acc = 0.525, cost time 17.107
+epoch 18/20: train_acc = 0.467, test_acc = 0.528, cost time 17.129
+epoch 19/20: train_acc = 0.474, test_acc = 0.531, cost time 17.005
+

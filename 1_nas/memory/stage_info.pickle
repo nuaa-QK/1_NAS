@@ -1,0 +1,72 @@
+{
+  "nas_start": "19 16:19:02",
+  "nas_cost": "0:0:0",
+  "blk_info": [
+    {
+      "blk_start": "19 16:19:02",
+      "blk_cost": "0:0:0",
+      "rounds_game_start": "19 16:19:02",
+      "search_epoch": 6,
+      "rounds_game_cost": "0:0:0",
+      "round_num": 1,
+      "round_info": [
+        {
+          "round_start": "19 16:19:02",
+          "round_cost": "0:0:0",
+          "round_data_size": 2500
+        }
+      ],
+      "train_winner_start": "19 16:19:02",
+      "train_winner_data_size": 3000,
+      "train_winner_cost": "0:0:0",
+      "confirm_train_start": "19 16:19:02",
+      "confirm_epoch": 7,
+      "confirm_data_size": 100,
+      "confirm_trian_cost": "0:0:0"
+    },
+    {
+      "blk_start": "19 16:19:02",
+      "blk_cost": "0:0:0",
+      "rounds_game_start": "19 16:19:02",
+      "search_epoch": 6,
+      "rounds_game_cost": "0:0:0",
+      "round_num": 1,
+      "round_info": [
+        {
+          "round_start": "19 16:19:02",
+          "round_cost": "0:0:0",
+          "round_data_size": 2500
+        }
+      ],
+      "train_winner_start": "19 16:19:02",
+      "train_winner_data_size": 3000,
+      "train_winner_cost": "0:0:0",
+      "confirm_train_start": "19 16:19:02",
+      "confirm_epoch": 7,
+      "confirm_data_size": 100,
+      "confirm_trian_cost": "0:0:0"
+    },
+    {
+      "blk_start": "19 16:19:02",
+      "blk_cost": "0:0:0",
+      "rounds_game_start": "19 16:19:02",
+      "search_epoch": 6,
+      "rounds_game_cost": "0:0:0",
+      "round_num": 1,
+      "round_info": [
+        {
+          "round_start": "19 16:19:02",
+          "round_cost": "0:0:0",
+          "round_data_size": 2500
+        }
+      ],
+      "train_winner_start": "19 16:19:02",
+      "train_winner_data_size": 3000,
+      "train_winner_cost": "0:0:0",
+      "confirm_train_start": "19 16:19:02",
+      "confirm_epoch": 7,
+      "confirm_data_size": 100,
+      "confirm_trian_cost": "0:0:0"
+    }
+  ]
+}

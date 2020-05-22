@@ -1,0 +1,24 @@
+digraph G {
+    0[style=solid,color=yellow,shape=box,label="input"];
+
+    subgraph cluster_0 {
+    color=gray;
+    node [style=solid,color=green,shape=box];
+    10[label="None"];
+    11[label="None"];
+    12[label="None"];
+    13[label="None"];
+    14[label="identity"];
+    label = "Block1";
+    }
+
+    1[style=solid,color=blue,shape=box,label="output"];
+    0 -> 10
+
+    10 -> 11,13
+    11 -> 12
+    12 -> 14
+    13 -> 12
+    14 -> 1
+
+}

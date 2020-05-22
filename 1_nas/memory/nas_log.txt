@@ -1,0 +1,109 @@
+NAS: Initializing...
+NAS: Enumerating all possible networks!
+NAS: search work start, start_time: 19 16:19:02
+NAS: Searching for block 1/3, start_time: 19 16:19:02
+NAS: Configuring the networks in the first round...
+NAS: rounds_game start, blk_num: 1 start_time: 19 16:19:02
+NAS: The round start, block_num: 1 round: 1 start_time: 19 16:19:02
+NAS: eva ing -> block_num:1 round:1 nn_id:0 item_id:0
+NAS: eva finished -> block_num:1 round:1 nn_id:0 item_id:0 score:0.0107 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:1 round:1 nn_id:0 item_id:1
+NAS: eva finished -> block_num:1 round:1 nn_id:0 item_id:1 score:0.0591 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:1 round:1 nn_id:0 item_id:2
+NAS: eva finished -> block_num:1 round:1 nn_id:0 item_id:2 score:0.0293 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:1 round:1 nn_id:1 item_id:0
+NAS: eva finished -> block_num:1 round:1 nn_id:1 item_id:0 score:0.0990 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:1 round:1 nn_id:1 item_id:1
+NAS: eva finished -> block_num:1 round:1 nn_id:1 item_id:1 score:0.0847 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:1 round:1 nn_id:1 item_id:2
+NAS: eva finished -> block_num:1 round:1 nn_id:1 item_id:2 score:0.0275 time_cost:0:0:0 eva_pid:28312
+Network info of net removed
+block_num: 1 round: 1 network_left: 1 network_id: 0 number of scheme: 3
+NAS: eliminating 1, remaining 1...
+NAS: The round is over, cost time: 0:0:0
+NAS: We got a WINNER and cost time: 0:0:0
+NAS: train winner start, blk_num: 1 round: 2 start_time: 19 16:19:02
+NAS: eva ing -> block_num:1 round:2 nn_id:1 item_id:3
+NAS: eva finished -> block_num:1 round:2 nn_id:1 item_id:3 score:0.0621 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:1 round:2 nn_id:1 item_id:4
+NAS: eva finished -> block_num:1 round:2 nn_id:1 item_id:4 score:0.0166 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:1 round:2 nn_id:1 item_id:5
+NAS: eva finished -> block_num:1 round:2 nn_id:1 item_id:5 score:0.0632 time_cost:0:0:0 eva_pid:28312
+NAS: confirm train satrt, blk_num: 1 start_time: 19 16:19:02
+NAS: eva ing -> block_num:1 round:-1 nn_id:1 item_id:6
+NAS: eva finished -> block_num:1 round:-1 nn_id:1 item_id:6 score:0.0937 time_cost:0:0:0 eva_pid:28312
+confirm train finished and cost time: 0:0:0
+NAS: Train winner finished and cost time: 0:0:0
+NAS: Search current block finished and cost time: 0:0:0
+NAS: Searching for block 2/3, start_time: 19 16:19:02
+NAS: Configuring the networks in the first round...
+NAS: rounds_game start, blk_num: 2 start_time: 19 16:19:02
+NAS: The round start, block_num: 2 round: 1 start_time: 19 16:19:02
+NAS: eva ing -> block_num:2 round:1 nn_id:0 item_id:0
+NAS: eva finished -> block_num:2 round:1 nn_id:0 item_id:0 score:0.0243 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:2 round:1 nn_id:0 item_id:1
+NAS: eva finished -> block_num:2 round:1 nn_id:0 item_id:1 score:0.0329 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:2 round:1 nn_id:0 item_id:2
+NAS: eva finished -> block_num:2 round:1 nn_id:0 item_id:2 score:0.0406 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:2 round:1 nn_id:1 item_id:0
+NAS: eva finished -> block_num:2 round:1 nn_id:1 item_id:0 score:0.0883 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:2 round:1 nn_id:1 item_id:1
+NAS: eva finished -> block_num:2 round:1 nn_id:1 item_id:1 score:0.0106 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:2 round:1 nn_id:1 item_id:2
+NAS: eva finished -> block_num:2 round:1 nn_id:1 item_id:2 score:0.0222 time_cost:0:0:0 eva_pid:28312
+Network info of net removed
+block_num: 2 round: 1 network_left: 1 network_id: 0 number of scheme: 3
+NAS: eliminating 1, remaining 1...
+NAS: The round is over, cost time: 0:0:0
+NAS: We got a WINNER and cost time: 0:0:0
+NAS: train winner start, blk_num: 2 round: 2 start_time: 19 16:19:02
+NAS: eva ing -> block_num:2 round:2 nn_id:1 item_id:3
+NAS: eva finished -> block_num:2 round:2 nn_id:1 item_id:3 score:0.0102 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:2 round:2 nn_id:1 item_id:4
+NAS: eva finished -> block_num:2 round:2 nn_id:1 item_id:4 score:0.0633 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:2 round:2 nn_id:1 item_id:5
+NAS: eva finished -> block_num:2 round:2 nn_id:1 item_id:5 score:0.0171 time_cost:0:0:0 eva_pid:28312
+NAS: confirm train satrt, blk_num: 2 start_time: 19 16:19:02
+NAS: eva ing -> block_num:2 round:-1 nn_id:1 item_id:6
+NAS: eva finished -> block_num:2 round:-1 nn_id:1 item_id:6 score:0.0538 time_cost:0:0:0 eva_pid:28312
+confirm train finished and cost time: 0:0:0
+NAS: Train winner finished and cost time: 0:0:0
+NAS: Search current block finished and cost time: 0:0:0
+NAS: Searching for block 3/3, start_time: 19 16:19:02
+NAS: Configuring the networks in the first round...
+NAS: rounds_game start, blk_num: 3 start_time: 19 16:19:02
+NAS: The round start, block_num: 3 round: 1 start_time: 19 16:19:02
+NAS: eva ing -> block_num:3 round:1 nn_id:0 item_id:0
+NAS: eva finished -> block_num:3 round:1 nn_id:0 item_id:0 score:0.0989 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:3 round:1 nn_id:0 item_id:1
+NAS: eva finished -> block_num:3 round:1 nn_id:0 item_id:1 score:0.0990 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:3 round:1 nn_id:0 item_id:2
+NAS: eva finished -> block_num:3 round:1 nn_id:0 item_id:2 score:0.0202 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:3 round:1 nn_id:1 item_id:0
+NAS: eva finished -> block_num:3 round:1 nn_id:1 item_id:0 score:0.0148 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:3 round:1 nn_id:1 item_id:1
+NAS: eva finished -> block_num:3 round:1 nn_id:1 item_id:1 score:0.0305 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:3 round:1 nn_id:1 item_id:2
+NAS: eva finished -> block_num:3 round:1 nn_id:1 item_id:2 score:0.0603 time_cost:0:0:0 eva_pid:28312
+Network info of net removed
+block_num: 3 round: 1 network_left: 1 network_id: 1 number of scheme: 3
+NAS: eliminating 1, remaining 1...
+NAS: The round is over, cost time: 0:0:0
+NAS: We got a WINNER and cost time: 0:0:0
+NAS: train winner start, blk_num: 3 round: 2 start_time: 19 16:19:02
+NAS: eva ing -> block_num:3 round:2 nn_id:0 item_id:3
+NAS: eva finished -> block_num:3 round:2 nn_id:0 item_id:3 score:0.0865 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:3 round:2 nn_id:0 item_id:4
+NAS: eva finished -> block_num:3 round:2 nn_id:0 item_id:4 score:0.0990 time_cost:0:0:0 eva_pid:28312
+NAS: eva ing -> block_num:3 round:2 nn_id:0 item_id:5
+NAS: eva finished -> block_num:3 round:2 nn_id:0 item_id:5 score:0.0109 time_cost:0:0:0 eva_pid:28312
+NAS: confirm train satrt, blk_num: 3 start_time: 19 16:19:02
+NAS: eva ing -> block_num:3 round:-1 nn_id:0 item_id:6
+NAS: eva finished -> block_num:3 round:-1 nn_id:0 item_id:6 score:0.0326 time_cost:0:0:0 eva_pid:28312
+confirm train finished and cost time: 0:0:0
+NAS: Train winner finished and cost time: 0:0:0
+NAS: Search current block finished and cost time: 0:0:0
+NAS: Search finished, cost time: 0:0:0 search result:
+[[[1, 3, 2, 4], [2, 4], [4], [2]], [('sep_conv', 32, 1, 'leakyrelu'), ('sep_conv', 64, 5, 'relu'), ('conv', 64, 1, 'leakyrelu'), ('sep_conv', 32, 1, 'leakyrelu')]],
+[[[1, 3, 2], [2, 4], [4], [2]], [('sep_conv', 128, 5, 'relu'), ('sep_conv', 128, 1, 'relu6'), ('sep_conv', 128, 1, 'relu6'), ('sep_conv', 128, 3, 'leakyrelu')]],
+[[[1, 2, 3], [2], [3]], [('sep_conv', 64, 5, 'leakyrelu'), ('conv', 192, 1, 'relu6'), ('conv', 64, 5, 'leakyrelu')]],
